@@ -11,7 +11,6 @@
     <li>
       <a href="#information-about-the-project">Information about the Project</a>
       <ul>
-        <li><a href="#general">General</a></li>
         <li><a href="#tech-stack">Tech Stack</a></li>
       </ul>
     </li>
